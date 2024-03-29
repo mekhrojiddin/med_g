@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyABXoV8K_IyksqibU0DugIEWn4v4xR9XAk',
-    appId: '1:925394531708:web:95c140cbc43acb33c620f9',
-    messagingSenderId: '925394531708',
-    projectId: 'med-g-450d2',
-    authDomain: 'med-g-450d2.firebaseapp.com',
-    storageBucket: 'med-g-450d2.appspot.com',
-    measurementId: 'G-G9HGYDLENV',
+    apiKey: 'AIzaSyDjKH6vbpsTrDhqpsNT7AovPCPeaXIAqVA',
+    appId: '1:263544271376:web:0a44c5c02eecaab949d095',
+    messagingSenderId: '263544271376',
+    projectId: 'medproject-7e535',
+    authDomain: 'medproject-7e535.firebaseapp.com',
+    storageBucket: 'medproject-7e535.appspot.com',
+    measurementId: 'G-DHE4NYQ3TN',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDy_hYpBRnIcD2z8WR6FNeHKZfhHvW9UIw',
-    appId: '1:925394531708:android:d9c7cefd931b4c26c620f9',
-    messagingSenderId: '925394531708',
-    projectId: 'med-g-450d2',
-    storageBucket: 'med-g-450d2.appspot.com',
+    apiKey: 'AIzaSyDIIFOsBmLBuEMdAo75gCiCY4v8opBIPgo',
+    appId: '1:263544271376:android:3164c334521d4afd49d095',
+    messagingSenderId: '263544271376',
+    projectId: 'medproject-7e535',
+    storageBucket: 'medproject-7e535.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBEAl6KA0wyItEos3uwlLnBX0wF-JePPEQ',
-    appId: '1:925394531708:ios:73be636b5684847dc620f9',
-    messagingSenderId: '925394531708',
-    projectId: 'med-g-450d2',
-    storageBucket: 'med-g-450d2.appspot.com',
+    apiKey: 'AIzaSyDfX5R333rtNQD70RyVLn2Y0-RcVveYwJE',
+    appId: '1:263544271376:ios:6f593c9102081a7949d095',
+    messagingSenderId: '263544271376',
+    projectId: 'medproject-7e535',
+    storageBucket: 'medproject-7e535.appspot.com',
     iosBundleId: 'com.example.medg',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBEAl6KA0wyItEos3uwlLnBX0wF-JePPEQ',
-    appId: '1:925394531708:ios:83dac3c99be6d3fec620f9',
-    messagingSenderId: '925394531708',
-    projectId: 'med-g-450d2',
-    storageBucket: 'med-g-450d2.appspot.com',
+    apiKey: 'AIzaSyDfX5R333rtNQD70RyVLn2Y0-RcVveYwJE',
+    appId: '1:263544271376:ios:6bd3968ac8dbb95a49d095',
+    messagingSenderId: '263544271376',
+    projectId: 'medproject-7e535',
+    storageBucket: 'medproject-7e535.appspot.com',
     iosBundleId: 'com.example.medg.RunnerTests',
   );
 }

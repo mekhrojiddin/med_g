@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "925394531708",
-    "project_id": "med-g-450d2",
-    "storage_bucket": "med-g-450d2.appspot.com"
+    "project_number": "263544271376",
+    "project_id": "medproject-7e535",
+    "storage_bucket": "medproject-7e535.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:925394531708:android:6fd78c40ed6af4fbc620f9",
+        "mobilesdk_app_id": "1:263544271376:android:3164c334521d4afd49d095",
         "android_client_info": {
-          "package_name": "com.android.application"
+          "package_name": "com.example.med_g"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDy_hYpBRnIcD2z8WR6FNeHKZfhHvW9UIw"
+          "current_key": "AIzaSyDIIFOsBmLBuEMdAo75gCiCY4v8opBIPgo"
         }
       ],
       "services": {
@@ -26,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:925394531708:android:d9c7cefd931b4c26c620f9",
+        "mobilesdk_app_id": "1:263544271376:android:03590e04d6ddaedc49d095",
         "android_client_info": {
-          "package_name": "com.example.med_g"
+          "package_name": "com.example.med_project"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDy_hYpBRnIcD2z8WR6FNeHKZfhHvW9UIw"
+          "current_key": "AIzaSyDIIFOsBmLBuEMdAo75gCiCY4v8opBIPgo"
         }
       ],
       "services": {

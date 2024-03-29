@@ -1,4 +1,3 @@
-const _bnb = 'assets/icons/bnb/';
 
 const path = "assets/icons/forgot_password/";
 const pathNotes="assets/icons/notes_svg/";
@@ -7,9 +6,6 @@ const single = "assets/icons/single_category/";
 const create = "assets/icons/create_task/";
 
 const tasks = "assets/icons/tasks/";
-const _create_expense = "assets/icons/create_expense/";
-const _new_catalog_icon = "assets/icons/create_expense/new_catalog_icon/";
-const _new_catalog_color = 'assets/icons/create_expense/new_catalog_colors/';
 
 const pathLogin = "assets/icons/login/";
 const calendar = "assets/icons/calendar/";

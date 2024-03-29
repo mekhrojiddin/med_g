@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:gap/gap.dart';
-import 'package:med_g/assets/app_images.dart';
+import 'package:med_g/assets/images.dart';
 import 'package:med_g/assets/colors.dart';
 import 'package:med_g/core/injector/injector.dart';
 import 'package:med_g/features/auth/presentation/login_screen.dart';
